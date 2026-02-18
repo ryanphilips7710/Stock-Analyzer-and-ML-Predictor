@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/3d826474-fbb4-4f75-80c1-4cffae5f996f
 | Layer            | Tools                   |
 | ---------------- | ----------------------- |
 | Data             | Pandas, NumPy, yFinance |
-| Visualization    | Matplotlib              |
+| Visualization    | Matplotlib, plotly      |
 | Machine Learning | Scikit-Learn            |
 | UI               | Streamlit               |
 
@@ -116,6 +116,7 @@ Stock predictions are not financial advice.
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it with attribution.
+
 
 
 
