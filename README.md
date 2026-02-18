@@ -4,6 +4,9 @@ A real-time stock analysis and next-day price prediction web application built u
 
 ---
 
+https://github.com/user-attachments/assets/3d826474-fbb4-4f75-80c1-4cffae5f996f
+
+
 ## 🚀 Features
 
 * 📊 Live stock data from Yahoo Finance
@@ -32,10 +35,10 @@ A real-time stock analysis and next-day price prediction web application built u
 ```
 Stock-Analyzer/
 │
-├── app.py
+├── app.v1.py
+├── app.v2.py
 ├── README.md
-├── requirements.txt
-└── main.py (console version)
+└── requirements.txt
 ```
 
 ---
@@ -104,7 +107,6 @@ Stock predictions are not financial advice.
 
 ## 🌟 Future Improvements
 
-* RSI & MACD indicators
 * Deep Learning (LSTM) models
 * Portfolio tracking
 * Real-time prediction updates
@@ -115,4 +117,5 @@ Stock predictions are not financial advice.
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it with attribution.
+
 
