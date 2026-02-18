@@ -4,9 +4,6 @@ A real-time stock analysis and next-day price prediction web application built u
 
 ---
 
-https://github.com/user-attachments/assets/3d826474-fbb4-4f75-80c1-4cffae5f996f
-
-
 ## 🚀 Features
 
 * 📊 Live stock data from Yahoo Finance
@@ -18,6 +15,8 @@ https://github.com/user-attachments/assets/3d826474-fbb4-4f75-80c1-4cffae5f996f
 * 🔮 Next-day stock price forecast
 
 ---
+
+https://github.com/user-attachments/assets/3d826474-fbb4-4f75-80c1-4cffae5f996f
 
 ## 🛠️ Tech Stack
 
@@ -117,5 +116,6 @@ Stock predictions are not financial advice.
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it with attribution.
+
 
 
