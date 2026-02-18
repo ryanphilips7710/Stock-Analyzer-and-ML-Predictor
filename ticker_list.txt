@@ -1,0 +1,6 @@
+TICKER_LIST = [
+    "AAPL", "MSFT", "GOOG", "GOOGL", "AMZN", "NVDA", "META", "TSLA",
+    "NFLX", "INTC", "AMD", "IBM", "ORCL",
+    "RELIANCE.NS", "TCS.NS", "INFY.NS", "HDFCBANK.NS",
+    "SBIN.NS", "ICICIBANK.NS"
+]
