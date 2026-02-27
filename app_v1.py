@@ -229,3 +229,4 @@ st.pyplot(fig_pred)
 st.subheader("Tomorrow Price Prediction")
 st.success(f"Predicted Closing Price: {currency_symbol}{next_price:.2f} ({currency})")
 
+
