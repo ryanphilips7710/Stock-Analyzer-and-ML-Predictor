@@ -27,7 +27,6 @@
 - 🔮 Next-day closing price forecast
 
 ### ⭐ Pro Version (v3) Exclusive
-- 🎨 Custom dark theme with Inter & Space Grotesk fonts
 - 📌 Live **KPI bar** — Last Close, RSI signal, ATR-14, R², Tomorrow's forecast
 - 🕯️ **Candlestick chart** toggle (Line + MAs ↔ Candlestick)
 - 📦 Color-coded **volume subplot** synced with price chart
@@ -37,7 +36,6 @@
 - 🔒 **Confidence Interval** based on 20-day rolling volatility
 - 💾 **CSV download** button for historical data
 - ⚡ Smart caching with `ttl=300` + `@st.cache_resource` for the trained model
-- 🏢 Sidebar shows **Company Name, Sector, Market Cap, P/E Ratio**
 
 ---
 
@@ -102,17 +100,6 @@ Historical Data  →  Feature Engineering  →  Time-Series Split
 | **RMSE** | Average magnitude of prediction error (as % return) |
 | **R² Score** | How well the model explains return variance |
 
----
-
-## 🧭 Supported Tickers
-
-Comes pre-configured with popular tickers from US and Indian markets:
-
-**US:** `AAPL`, `MSFT`, `GOOG`, `AMZN`, `NVDA`, `META`, `TSLA`, `NFLX`, `AMD`, `INTC`, `IBM`, `ORCL`
-
-**India (NSE):** `RELIANCE.NS`, `TCS.NS`, `INFY.NS`, `HDFCBANK.NS`, `SBIN.NS`, `ICICIBANK.NS`
-
-Any valid Yahoo Finance ticker symbol is supported.
 
 ---
 
@@ -185,3 +172,4 @@ Predictions are not financial advice. Always do your own research before making 
 ## 📄 License
 
 This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.
+
